@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Luan Vilela
+# 👨‍💻 Luan Vilela
 
 **`Analista de Qualidade e Desenvolvedor mobile`**
 
