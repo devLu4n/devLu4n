@@ -2,7 +2,7 @@
 
 **`Analista de Qualidade e Desenvolvedor mobile`**
 
-Me chamo Luan Vilela, tenho 20 anos e sou natural de Pernambuco. Atualmente, estou cursando Ciência da Computação na UFAL. Sou apaixonado por tecnologia com foco em Quality Assurance (QA) e desenvolvimento mobile. Atuo com mentalidade analítica, atenção aos detalhes e sempre buscando aprender novas ferramentas que garantam eficiência e qualidade no ciclo de desenvolvimento.
+Sou Luan Vilela, estudante de Ciência da Computação na UFAL, apaixonado por tecnologia e focado em desenvolvimento Full Stack e QA. Tenho perfil analítico, atenção aos detalhes e estou sempre em busca de novos conhecimentos e ferramentas que contribuam para a criação de soluções eficientes e de qualidade.
 
 ---
 
