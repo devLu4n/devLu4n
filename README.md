@@ -1,6 +1,6 @@
 # 👨‍💻 Luan Vilela
 
-**`Analista de Qualidade e Desenvolvedor mobile`**
+**`Desenvolvedor Full Stack e Analista de Qualidade`**
 
 Sou Luan Vilela, estudante de Ciência da Computação na UFAL, apaixonado por tecnologia e focado em desenvolvimento Full Stack e QA. Tenho perfil analítico, atenção aos detalhes e estou sempre em busca de novos conhecimentos e ferramentas que contribuam para a criação de soluções eficientes e de qualidade.
 
