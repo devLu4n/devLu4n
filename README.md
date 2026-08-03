@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full Stack e Analista de Qualidade`**
 
-Sou Luan Vilela, estudante de Ciência da Computação na UFAL, Desenvolvedor Full Stack e Analista de QA com foco na construção, manutenção e validação técnica de aplicações digitais. Experiência abrangente no ciclo de desenvolvimento, englobando a modelagem e criação de APIs (Node.js, Express, Prisma, PostgreSQL), além de interfaces front-end (React, HTML, CSS, Tailwind). Em Qualidade de Software, possuo forte vivência na aplicação da Pirâmide de Testes, elaboração de estratégias de validação e metodologias ágeis (Scrum, Kanban). Atuo no planejamento e gestão de testes manuais (Jira, Zephyr Scale), automação de testes E2E (Cypress, Selenium WebDriver) e testes de APIs (Postman), utilizando BDD com Gherkin e Cucumber. Perfil colaborativo, proativo e organizado, com inglês avançado para leitura, escrita e conversação.
+Sou Luan Vilela, estudante de Ciência da Computação na UFAL, Desenvolvedor Full Stack e Analista de QA com foco na construção, manutenção e validação técnica de aplicações digitais. Experiência abrangente no ciclo de desenvolvimento, englobando a modelagem e criação de APIs (Node.js, Express, Prisma, PostgreSQL), além de interfaces front-end (HTML, CSS, Tailwind). Em Qualidade de Software, possuo forte vivência na aplicação da Pirâmide de Testes, elaboração de estratégias de validação e metodologias ágeis (Scrum, Kanban). Atuo no planejamento e gestão de testes manuais (Jira, Zephyr Scale), automação de testes E2E (Cypress, Selenium WebDriver) e testes de APIs (Postman), utilizando BDD com Gherkin e Cucumber. Perfil colaborativo, proativo e organizado, com inglês avançado para leitura, escrita e conversação.
 
 
 ---
