@@ -110,7 +110,7 @@ Sou Luan Vilela, estudante de Ciência da Computação na UFAL, Desenvolvedor Fu
     title="Postman"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
 />
 <img 
     align="left" 
@@ -118,7 +118,15 @@ Sou Luan Vilela, estudante de Ciência da Computação na UFAL, Desenvolvedor Fu
     title="Selenium"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Postgresql" 
+    title="Postgresql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
 <br/>
 <br/>
